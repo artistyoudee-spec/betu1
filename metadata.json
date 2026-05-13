@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Romantic Birthday Reveal",
+  "description": "An interactive, step-by-step romantic birthday surprise website with scratch-offs, music, and memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
